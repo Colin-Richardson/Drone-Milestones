@@ -1,0 +1,32 @@
+body {
+  font-family:arial;
+  background: linear-gradient(to bottom, #000099 0%, #990000 100%);
+
+  color:white;
+}
+
+.header {
+text-align: center;
+font-size: 50px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.drone:hover {
+  color:#99ffff;
+}
+
+.content img {
+  float: left;
+  width:250px;
+  height:auto;
+  padding: 5px;
+}
+.section {
+  display: inline-block;
+}
+#bleu {
+  font-size: 20px;
+}
